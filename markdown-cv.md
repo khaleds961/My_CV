@@ -1,7 +1,7 @@
 <img src="me.jpg" width="180" >
 
 ### Khaled Al Houssein
-##### INFORMATION TECHNOLOGY 
+##### INFORMATION TECHNOLOGY GRATUATED
 
 
 ***
