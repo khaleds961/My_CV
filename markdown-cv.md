@@ -1,4 +1,4 @@
-<img src="me.jpg" width="200" style="float">
+<img src="me.jpg" width="180" style="float">
 
 ### Khaled Al Houssein
 ##### INFORMATION TECHNOLOGY GRADUATE
